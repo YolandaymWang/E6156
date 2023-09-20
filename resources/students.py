@@ -8,7 +8,7 @@ class StudentsResource:
     #
 
     students_file = \
-        "D:/2023/E6156/task1/resources/old-students.json"
+        "E6156/resources/old-students.json"
 
     def __init__(self):
         self.students = None
